@@ -1,4 +1,5 @@
 ## Miembros
+* Nuevo personaje
 * Capitán America
 * Black panther
 * Black Widow
